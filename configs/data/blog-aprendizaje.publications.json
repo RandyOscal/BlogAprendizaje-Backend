@@ -1,0 +1,432 @@
+[{
+  "_id": {
+    "$oid": "6821801b71d2ae80581a3b41"
+  },
+  "title": "Laboratorio # 1 - página web",
+  "category": {
+    "$oid": "68206884aed2172627f1e6b2"
+  },
+  "description": "En esta actividad se realizo una pagina web simple que solamente muestra informacion.",
+  "files": [
+    {
+      "filename": "Laboratorio #1 - PÃ¡gina Web-1747025947942.pdf",
+      "url": "/public/uploads/files/Laboratorio #1 - PÃ¡gina Web-1747025947942.pdf",
+      "_id": {
+        "$oid": "6821801b71d2ae80581a3b42"
+      }
+    }
+  ],
+  "comments": [],
+  "date": {
+    "$date": "2025-05-12T04:59:07.947Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682180b271d2ae80581a3b45"
+  },
+  "title": "Laboratorio # 2 - Adición de funcionalidades",
+  "category": {
+    "$oid": "68206884aed2172627f1e6b2"
+  },
+  "description": "En esta actividad se pide realizar nuevavs funcionalidades de actualizar, eliminar y agregar citas en vistas de html",
+  "files": [
+    {
+      "filename": "Laboratorio #2 - AdiciÃ³n de funcionalidades-1747026098018.pdf",
+      "url": "/public/uploads/files/Laboratorio #2 - AdiciÃ³n de funcionalidades-1747026098018.pdf",
+      "_id": {
+        "$oid": "682180b271d2ae80581a3b46"
+      }
+    }
+  ],
+  "comments": [],
+  "date": {
+    "$date": "2025-05-12T05:01:38.021Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821810171d2ae80581a3b49"
+  },
+  "title": "Proyecto Bimestral - avance",
+  "category": {
+    "$oid": "68206884aed2172627f1e6b2"
+  },
+  "description": "En esta actividad se pide realizar un avance del 35% de un proyecto de Bimestre",
+  "files": [
+    {
+      "filename": "Proyecto Bimestre 1 Taller III - Venta Online-1747026177817.pdf",
+      "url": "/public/uploads/files/Proyecto Bimestre 1 Taller III - Venta Online-1747026177817.pdf",
+      "_id": {
+        "$oid": "6821810171d2ae80581a3b4a"
+      }
+    }
+  ],
+  "comments": [],
+  "date": {
+    "$date": "2025-05-12T05:02:57.820Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821817271d2ae80581a3b4d"
+  },
+  "title": "Laboratorio # 3 - análisis de caso COPEREX",
+  "category": {
+    "$oid": "68206884aed2172627f1e6b2"
+  },
+  "description": "En esta actividad se pide realizar una api robusta para el manejo de datos de nuevos empleados, clientes, proveedores, etc",
+  "files": [
+    {
+      "filename": "Laboratorio # 3-1747026290548.pdf",
+      "url": "/public/uploads/files/Laboratorio # 3-1747026290548.pdf",
+      "_id": {
+        "$oid": "6821817271d2ae80581a3b4e"
+      }
+    }
+  ],
+  "comments": [],
+  "date": {
+    "$date": "2025-05-12T05:04:50.555Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682181d271d2ae80581a3b51"
+  },
+  "title": "Evaluación Técnica Bimestral",
+  "category": {
+    "$oid": "68206884aed2172627f1e6b2"
+  },
+  "description": "En esta actividad se pide realizar una api para gestionar el registro\nde ventas, productos en línea y otras operaciones comerciales de una empresa",
+  "files": [
+    {
+      "filename": "Proyecto bimestral bim. I-1747026386798.pdf",
+      "url": "/public/uploads/files/Proyecto bimestral bim. I-1747026386798.pdf",
+      "_id": {
+        "$oid": "682181d271d2ae80581a3b52"
+      }
+    }
+  ],
+  "comments": [],
+  "date": {
+    "$date": "2025-05-12T05:06:26.802Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821822471d2ae80581a3b55"
+  },
+  "title": "Laboratorio # 4 - Ejercicios de JavaScript",
+  "category": {
+    "$oid": "68206884aed2172627f1e6b2"
+  },
+  "description": "En esta actividad se pide realizar 4 ejercicios faciles, 2 medios y 2 dificiles para practicar JavaScript",
+  "files": [
+    {
+      "filename": "Laboratorio #4-1747026468209.pdf",
+      "url": "/public/uploads/files/Laboratorio #4-1747026468209.pdf",
+      "_id": {
+        "$oid": "6821822471d2ae80581a3b56"
+      }
+    }
+  ],
+  "comments": [],
+  "date": {
+    "$date": "2025-05-12T05:07:48.222Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821826671d2ae80581a3b59"
+  },
+  "title": "Proyecto Bimestral II",
+  "category": {
+    "$oid": "68206884aed2172627f1e6b2"
+  },
+  "description": "En esta actividad se pide realizar el avance del 35% del proyecto de Gestion Hotelera",
+  "files": [
+    {
+      "filename": "Proyecto bim II-1747026534397.pdf",
+      "url": "/public/uploads/files/Proyecto bim II-1747026534397.pdf",
+      "_id": {
+        "$oid": "6821826671d2ae80581a3b5a"
+      }
+    }
+  ],
+  "comments": [],
+  "date": {
+    "$date": "2025-05-12T05:08:54.400Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821838571d2ae80581a3b93"
+  },
+  "title": "Laboratorio # 1 - Agenda Web",
+  "category": {
+    "$oid": "68206885aed2172627f1e6b8"
+  },
+  "description": "En esta actividad se pide que tomando la idea básica de una agenda telefónica, desarrollar una agenda web similar. ",
+  "files": [
+    {
+      "filename": "Laboratorio #1 - Agenda Web-1747026821986.pdf",
+      "url": "/public/uploads/files/Laboratorio #1 - Agenda Web-1747026821986.pdf",
+      "_id": {
+        "$oid": "6821838571d2ae80581a3b94"
+      }
+    }
+  ],
+  "comments": [],
+  "date": {
+    "$date": "2025-05-12T05:13:41.989Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682183e771d2ae80581a3b97"
+  },
+  "title": "Laboratorio # 2 - Administración de alumnos",
+  "category": {
+    "$oid": "68206885aed2172627f1e6b8"
+  },
+  "description": "En esta actividad se pide una aplicacion (solamente de backend) la cual servirá para poder llevar\nla administración del control de alumnos de un centro educativo.",
+  "files": [
+    {
+      "filename": "Laboratorio #2 - Gestor acadÃ©mico-1747026919745.pdf",
+      "url": "/public/uploads/files/Laboratorio #2 - Gestor acadÃ©mico-1747026919745.pdf",
+      "_id": {
+        "$oid": "682183e771d2ae80581a3b98"
+      }
+    }
+  ],
+  "comments": [],
+  "date": {
+    "$date": "2025-05-12T05:15:19.754Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821843571d2ae80581a3b9b"
+  },
+  "title": "Laboratorio # 3 - Gestor de opiniones",
+  "category": {
+    "$oid": "68206885aed2172627f1e6b8"
+  },
+  "description": "En esta actividad se pide una aplicacion (solamente de backend) la cual sera como un tipo Facebook para que usuarios puedan comentar publicaciones.",
+  "files": [
+    {
+      "filename": "Laboratorio #3 - Gestor de opiniones-1747026997206.pdf",
+      "url": "/public/uploads/files/Laboratorio #3 - Gestor de opiniones-1747026997206.pdf",
+      "_id": {
+        "$oid": "6821843571d2ae80581a3b9c"
+      }
+    }
+  ],
+  "comments": [],
+  "date": {
+    "$date": "2025-05-12T05:16:37.209Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821850e71d2ae80581a3bd6"
+  },
+  "title": "Exposición grupal # 1",
+  "category": {
+    "$oid": "68206885aed2172627f1e6b8"
+  },
+  "description": "En esta actividad cada grupo presentará sobre un framework para el desarrollo de aplicaciones híbridas.",
+  "files": [
+    {
+      "filename": "ExposiciÃ³n grupal #1 - Framework para desarrollo de aplicaciones hÃ­bridas-1747027214580.pdf",
+      "url": "/public/uploads/files/ExposiciÃ³n grupal #1 - Framework para desarrollo de aplicaciones hÃ­bridas-1747027214580.pdf",
+      "_id": {
+        "$oid": "6821850e71d2ae80581a3bd7"
+      }
+    }
+  ],
+  "comments": [],
+  "date": {
+    "$date": "2025-05-12T05:20:14.594Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821857d71d2ae80581a3bda"
+  },
+  "title": "Laboratorio # 4 - Almacenadora",
+  "category": {
+    "$oid": "68206885aed2172627f1e6b8"
+  },
+  "description": "En esta actividad cada grupo debera de trabajar una  aplicación web para la administración de una almacenadora \n de productos.",
+  "files": [
+    {
+      "filename": "Laboratorio #4 - Almacenadora-1747027325795.pdf",
+      "url": "/public/uploads/files/Laboratorio #4 - Almacenadora-1747027325795.pdf",
+      "_id": {
+        "$oid": "6821857d71d2ae80581a3bdb"
+      }
+    }
+  ],
+  "comments": [],
+  "date": {
+    "$date": "2025-05-12T05:22:05.798Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821863771d2ae80581a3bde"
+  },
+  "title": "Actividad # 1 - Infografía HTML, CSS, PreProcesadores",
+  "category": {
+    "$oid": "68206885aed2172627f1e6b5"
+  },
+  "description": "En esta actividad se debe realizar una infografia de los topicos indicados.",
+  "files": [
+    {
+      "filename": "Actividad #1 - InfografÃ­a-1747027511537.pdf",
+      "url": "/public/uploads/files/Actividad #1 - InfografÃ­a-1747027511537.pdf",
+      "_id": {
+        "$oid": "6821863771d2ae80581a3bdf"
+      }
+    }
+  ],
+  "comments": [],
+  "date": {
+    "$date": "2025-05-12T05:25:11.543Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821867771d2ae80581a3be2"
+  },
+  "title": "Actividad # 2 - Mapa conceptual",
+  "category": {
+    "$oid": "68206885aed2172627f1e6b5"
+  },
+  "description": "En esta actividad se debe realizar un mapa conceptual de los topicos indicados",
+  "files": [
+    {
+      "filename": "Actividad #2 - Mapa conceptual-1747027575982.pdf",
+      "url": "/public/uploads/files/Actividad #2 - Mapa conceptual-1747027575982.pdf",
+      "_id": {
+        "$oid": "6821867771d2ae80581a3be3"
+      }
+    }
+  ],
+  "comments": [],
+  "date": {
+    "$date": "2025-05-12T05:26:15.985Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682186a471d2ae80581a3be6"
+  },
+  "title": "Actividad # 3 - Mapa mental",
+  "category": {
+    "$oid": "68206885aed2172627f1e6b5"
+  },
+  "description": "En esta actividad se debe realizar un mapa mental de los topicos indicados",
+  "files": [
+    {
+      "filename": "Actividad #3 - Mapa mental-1747027620506.pdf",
+      "url": "/public/uploads/files/Actividad #3 - Mapa mental-1747027620506.pdf",
+      "_id": {
+        "$oid": "682186a471d2ae80581a3be7"
+      }
+    }
+  ],
+  "comments": [],
+  "date": {
+    "$date": "2025-05-12T05:27:00.510Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "682186ea71d2ae80581a3bea"
+  },
+  "title": "Actividad # 4 - Infografía beneficios React",
+  "category": {
+    "$oid": "68206885aed2172627f1e6b5"
+  },
+  "description": "En esta actividad se debe realizar una infografia sobre los beneficios del uso de React",
+  "files": [
+    {
+      "filename": "Actividad #4 - InfografÃ­a-1747027690965.pdf",
+      "url": "/public/uploads/files/Actividad #4 - InfografÃ­a-1747027690965.pdf",
+      "_id": {
+        "$oid": "682186ea71d2ae80581a3beb"
+      }
+    }
+  ],
+  "comments": [],
+  "date": {
+    "$date": "2025-05-12T05:28:10.968Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821872d71d2ae80581a3bee"
+  },
+  "title": "Actividad # 5 - Propuesta de proyecto",
+  "category": {
+    "$oid": "68206885aed2172627f1e6b5"
+  },
+  "description": "En esta actividad se debe realizar una propuesta de proyecto que resuelva un problema social de forma tecnologica",
+  "files": [
+    {
+      "filename": "Actividad #5 - Propuesta de proyecto-1747027757601.pdf",
+      "url": "/public/uploads/files/Actividad #5 - Propuesta de proyecto-1747027757601.pdf",
+      "_id": {
+        "$oid": "6821872d71d2ae80581a3bef"
+      }
+    }
+  ],
+  "comments": [],
+  "date": {
+    "$date": "2025-05-12T05:29:17.604Z"
+  },
+  "__v": 0
+},
+{
+  "_id": {
+    "$oid": "6821876671d2ae80581a3bf2"
+  },
+  "title": "Actividad # 6 - Investigación APIs",
+  "category": {
+    "$oid": "68206885aed2172627f1e6b5"
+  },
+  "description": "En esta actividad se debe realizar una investigacion sobre lo que son y para que sirven las APis",
+  "files": [
+    {
+      "filename": "Actividad #6 - InvestigaciÃ³n-1747027814511.pdf",
+      "url": "/public/uploads/files/Actividad #6 - InvestigaciÃ³n-1747027814511.pdf",
+      "_id": {
+        "$oid": "6821876671d2ae80581a3bf3"
+      }
+    }
+  ],
+  "comments": [],
+  "date": {
+    "$date": "2025-05-12T05:30:14.514Z"
+  },
+  "__v": 0
+}]

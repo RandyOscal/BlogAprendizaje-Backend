@@ -1,0 +1,229 @@
+{
+	"info": {
+		"_postman_id": "7b0d8e92-fb3a-445f-94ff-ed690cc8f742",
+		"name": "BlogAprendizaje",
+		"schema": "https://schema.getpostman.com/json/collection/v2.0.0/collection.json",
+		"_exporter_id": "37643426"
+	},
+	"item": [
+		{
+			"name": "Comments",
+			"item": [
+				{
+					"name": "AddComment",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n  \"username\": \"JuanPerez\",\r\n  \"publicationId\": \"ID de la publicaion\",\r\n  \"description\": \"¡Excelente publicación!\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "http://127.0.0.1:3000/blogAprendizaje/v1/comments/addComment"
+					},
+					"response": []
+				},
+				{
+					"name": "UpdateComment",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"username\": \"Nuevo Usuario\",\r\n    \"description\": \"Este es el nuevo contenido del comentario\"\r\n}",
+							"options": {
+								"raw": {
+									"language": "json"
+								}
+							}
+						},
+						"url": "http://127.0.0.1:3000/blogAprendizaje/v1/comments/updateComment/681db5c57cb4ea43c81b85ba"
+					},
+					"response": []
+				},
+				{
+					"name": "DeleteComment",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "DELETE",
+						"header": [],
+						"url": "http://127.0.0.1:3000/blogAprendizaje/v1/comments/deleteComment/681db5c57cb4ea43c81b85ba"
+					},
+					"response": []
+				}
+			]
+		},
+		{
+			"name": "Publications",
+			"item": [
+				{
+					"name": "AddPublications",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "POST",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "title",
+									"value": "Actividad # 6 - Investigación APIs",
+									"type": "text"
+								},
+								{
+									"key": "category",
+									"value": "Tecnologia III",
+									"type": "text"
+								},
+								{
+									"key": "description",
+									"value": "En esta actividad se debe realizar una investigacion sobre lo que son y para que sirven las APis",
+									"type": "text"
+								},
+								{
+									"key": "files",
+									"type": "file",
+									"src": "/C:/Users/PC/Desktop/archivos a usar/Tecno/Actividad #6 - Investigación.pdf"
+								}
+							]
+						},
+						"url": "http://127.0.0.1:3000/blogAprendizaje/v1/publications/addPublication"
+					},
+					"response": []
+				},
+				{
+					"name": "ListPublications",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "",
+									"type": "file",
+									"src": [],
+									"disabled": true
+								}
+							]
+						},
+						"url": "http://127.0.0.1:3000/blogAprendizaje/v1/publications"
+					},
+					"response": []
+				},
+				{
+					"name": "ListByCategoryPublications",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [],
+						"url": "http://127.0.0.1:3000/blogAprendizaje/v1/publications/category/Taller III"
+					},
+					"response": []
+				},
+				{
+					"name": "UpdatePublications",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "PUT",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "newTitle",
+									"value": "",
+									"type": "text",
+									"disabled": true
+								},
+								{
+									"key": "newCategory",
+									"value": "Tecnologia III",
+									"type": "text"
+								},
+								{
+									"key": "newDescription",
+									"value": "Descripción actualizada de la publicación.",
+									"type": "text"
+								},
+								{
+									"key": "newFiles",
+									"type": "file",
+									"src": "/C:/Users/PC/Desktop/Diario del programador backend/BlogDeAprendizaje/public/uploads/files/Actividad #4 - Infografía.pdf"
+								}
+							]
+						},
+						"url": "http://127.0.0.1:3000/blogAprendizaje/v1/publications/updatePublication/Mi primera publicación"
+					},
+					"response": []
+				},
+				{
+					"name": "DeletePublications",
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "DELETE",
+						"header": [],
+						"body": {
+							"mode": "raw",
+							"raw": "{\r\n    \"username\": \"Nuevo Usuario\",\r\n    \"description\": \"Este es el nuevo contenido del comentario\"\r\n}"
+						},
+						"url": "http://127.0.0.1:3000/blogAprendizaje/v1/publications/deletePublication/Mi primera publicación"
+					},
+					"response": []
+				},
+				{
+					"name": "ListByIdPublications",
+					"protocolProfileBehavior": {
+						"disableBodyPruning": true
+					},
+					"request": {
+						"auth": {
+							"type": "noauth"
+						},
+						"method": "GET",
+						"header": [],
+						"body": {
+							"mode": "formdata",
+							"formdata": [
+								{
+									"key": "",
+									"type": "file",
+									"src": [],
+									"disabled": true
+								}
+							]
+						},
+						"url": "http://127.0.0.1:3000/blogAprendizaje/v1/publications/ID"
+					},
+					"response": []
+				}
+			]
+		}
+	]
+}
